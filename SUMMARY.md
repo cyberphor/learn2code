@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Hello World!](README.md)
+
+## Python
+
+* [Output](python/output.md)
 
