@@ -12,3 +12,23 @@
 * [Getting Started with PowerShell](powershell/getting-started-with-powershell.md)
 * [Output](powershell/output.md)
 
+## PHP
+
+* [Untitled](php/untitled.md)
+
+## SQL
+
+* [Untitled](sql/untitled.md)
+
+## BASH
+
+* [Untitled](bash/untitled.md)
+
+## C
+
+* [Untitled](c/untitled.md)
+
+## Golang
+
+* [Untitled](golang/untitled.md)
+
